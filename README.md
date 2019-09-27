@@ -14,3 +14,6 @@ After that, you will need to stick the servo motor on the right side of the box(
 to lift the cover.
 
 
+# The diagram
+
+https://github.com/Marcopy123/Box-opener-with-Arduino/issues/1#issue-498573460

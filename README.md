@@ -16,4 +16,4 @@ to lift the cover.
 
 # The diagram
 
-https://github.com/Marcopy123/Box-opener-with-Arduino/issues/1#issue-498573460
+![Image 2019-09-25 at 7 33 PM](https://user-images.githubusercontent.com/50530429/65647077-7113f800-dfcb-11e9-94e7-7aede1974bd1.jpg)

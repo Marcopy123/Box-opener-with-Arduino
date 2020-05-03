@@ -22,4 +22,4 @@ Note : The pin for the servo goes to Pin 6
 
 
 ## Made by
-Made by Marco
+Made by Marco, January 13 2020

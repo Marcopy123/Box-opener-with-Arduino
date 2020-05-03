@@ -18,7 +18,8 @@ to lift the cover.
 
 Note : The pin for the servo goes to Pin 6
 
-[Diagram for project](https://user-images.githubusercontent.com/50530429/65647077-7113f800-dfcb-11e9-94e7-7aede1974bd1.jpg)
+![diagram](https://user-images.githubusercontent.com/50530429/80919534-74791a00-8d38-11ea-971b-b6d981811753.jpg)
+
 
 ## Made by
 Made by Marco
